@@ -96,10 +96,10 @@ while (1)
 
 ## Output  :
 
-## LED ON:
+## LED OFF:
 ![image](https://github.com/hariharana59/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144980130/cbfe95b7-0a6a-4b69-9b2c-81cb42b4b1d0)
 
-## LED OFF:
+## LED ON:
 ![image](https://github.com/hariharana59/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/144980130/31d355c4-c57b-4c50-9d37-425cf8b3a54b)
 
  
